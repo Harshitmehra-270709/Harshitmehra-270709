@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-i am currently working in the field of Data science, machine learning , good in communication 
-
+I am a Computer Science undergraduate with a strong foundation in data science, AI, and backend development. I thrive in dynamic environments, solving complex problems through technology and innovation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshit-mehra-185b35217/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mehra.harshit27@gmail.com) 
