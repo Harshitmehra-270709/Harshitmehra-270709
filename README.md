@@ -28,7 +28,6 @@
 ---
 
 ## 🚀 Featured Projects
-
 <table>
   <tr>
     <td width="50%">
@@ -47,7 +46,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## 💻 Skills & Technologies
