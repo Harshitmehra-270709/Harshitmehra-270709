@@ -32,17 +32,17 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">AI Research Assistant</h3>
+      <h3 align="center">Cryptocurrency Price Prediction</h3>
       <div align="center">
-        <a href="https://github.com/Harshitmehra-270709/cryptocurrencyprediction" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshitmehra-270709&repo=repository-name&theme=tokyonight" width="400" alt="project-1"></a>
-        <p><strong>Python, PyTorch, FastAPI</strong> - An AI-powered research assistant that helps academics find relevant papers and summarize key findings.</p>
+        <a href="https://github.com/Harshitmehra-270709/cryptocurrency_pridiction" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshitmehra-270709&repo=cryptocurrency_pridiction&theme=tokyonight" width="400" alt="cryptocurrency prediction"></a>
+        <p><strong>Python, Pandas, Scikit-learn, LSTM</strong> - Advanced time series forecasting model for cryptocurrency price prediction using deep learning and statistical analysis techniques.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Smart Home Automation System</h3>
+      <h3 align="center">Food Recipe Finder</h3>
       <div align="center">
-        <a href="https://github.com/username/project" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshitmehra-270709&repo=repository-name&theme=tokyonight" width="400" alt="project-2"></a>
-        <p><strong>Raspberry Pi, Python, MQTT</strong> - IoT system to control and automate home devices with machine learning for energy optimization.</p>
+        <a href="https://github.com/Harshitmehra-270709/FOOD-RECIPEE-FINDER" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshitmehra-270709&repo=FOOD-RECIPEE-FINDER&theme=tokyonight" width="400" alt="food recipe finder"></a>
+        <p><strong>HTML, CSS, JavaScript, API Integration</strong> - Web application that helps users discover food recipes based on available ingredients, dietary preferences, and cuisine types.</p>
       </div>
     </td>
   </tr>
