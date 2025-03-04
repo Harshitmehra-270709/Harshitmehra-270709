@@ -154,3 +154,90 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:8A2BE2&height=150&section=footer" width="100%" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 👨‍💻 Harshit Mehra | Data Scientist & Software Engineer
+
+![Profile Views](https://komarev.com/ghpvc/?username=Harshitmehra-270709&color=blueviolet&style=for-the-badge)
+
+## 🌟 Professional Summary
+
+A forward-thinking Computer Science professional with a passion for leveraging cutting-edge technologies to solve complex problems. Specialized in data science, artificial intelligence, and backend development, with a proven track record of developing innovative solutions that bridge theoretical knowledge with practical applications.
+
+## 📊 GitHub Statistics
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshitmehra-270709&theme=radical&hide_border=false)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshitmehra-270709&show_icons=true&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitmehra-270709&layout=compact&theme=radical&hide_border=false)
+
+## 🚀 Current Focus
+
+- 🔬 Advancing NLP applications
+- ☁️ Exploring cloud architecture and microservices
+- 🤝 Collaborating on open-source AI projects
+
+## 💻 Technical Skills
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools & Platforms
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## 🔥 Featured Projects
+
+### Cryptocurrency Price Prediction
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitmehra-270709&repo=cryptocurrency_pridiction&theme=radical&hide_border=false)
+
+### Food Recipe Finder
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshitmehra-270709&repo=FOOD-RECIPEE-FINDER&theme=radical&hide_border=false)
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshitmehra-270709&theme=radical&hide_border=false)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-mehra-185b35217)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshitmehra-270709)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mehra.harshit27@gmail.com)
+
+## 📜 Daily Inspiration
+
+![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
