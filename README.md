@@ -19,15 +19,9 @@
 - 💡 **Founder & Developer at XPAND** – A Privacy-First, Decentralized Data Management Platform.
 - 📊 **Data Enthusiast** – Working on cryptocurrency stock price predictions using Python, NumPy, Pandas, and machine learning.
 - 🔗 **Blockchain Developer** – Building decentralized solutions and Solidity smart contracts.
-- 💻 **Tech Stack**: Python, Java, Solidity, React, R, and more!
+- 💻 **Tech Stack**: Python, Java, Solidity, R, and more!
 
-> I am a Computer Science undergraduate passionate about leveraging technology to solve real-world problems. With expertise in data science, artificial intelligence, and backend development, I thrive in dynamic environments where I can apply my analytical mindset and technical skills.
->
-> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="18px"> Currently working on: Advanced NLP applications  
-> <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="18px"> Learning: Cloud architecture and microservices  
-> <img src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" width="18px"> Looking to collaborate on: Open-source AI projects  
-> <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="18px"> Ask me about: Python, Data Science, Machine Learning  
-> <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="18px"> Fun fact: I can solve a Rubik's cube in under 2 minutes!
+
 
 <div align="center">
   <a href="https://linkedin.com/in/harshit-mehra-185b35217"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
